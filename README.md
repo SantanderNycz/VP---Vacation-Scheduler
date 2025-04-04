@@ -111,8 +111,8 @@ Siga estes passos para instalar e executar a aplicação localmente:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/SantanderNycz/VP.git
-cd VP
+git clone https://github.com/SantanderNycz/VP---Vacation-Scheduler.git
+cd VP---Vacation-Scheduler
 ```
 
 2. Instale as dependências:
