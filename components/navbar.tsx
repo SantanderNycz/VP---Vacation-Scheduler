@@ -22,7 +22,7 @@ export default function Navbar({ session }: NavbarProps) {
             <img
               src="/vertsaplay_logo.png"
               alt="Vertsa Play Logo"
-              className="h-6 md:h-8 w-auto"
+              className="h-12 md:h-14 w-auto"
             />
           </Link>
           <div className="hidden md:flex gap-2">
