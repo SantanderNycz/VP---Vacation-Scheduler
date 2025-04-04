@@ -20,7 +20,7 @@ export default function Navbar({ session }: NavbarProps) {
         <div className="flex items-center gap-4 md:gap-6">
           <Link href="/dashboard" className="font-semibold">
             <img
-              src="/public/vertsaplay_logo.png"
+              src="/vertsaplay_logo.png"
               alt="Vertsa Play Logo"
               className="h-6 md:h-8 w-auto"
             />
